@@ -1,0 +1,14 @@
+/home/lee/Documents/c#/2024/august/guessingGame/obj/Debug/net8.0/guessingGame.GeneratedMSBuildEditorConfig.editorconfig
+/home/lee/Documents/c#/2024/august/guessingGame/obj/Debug/net8.0/guessingGame.AssemblyInfoInputs.cache
+/home/lee/Documents/c#/2024/august/guessingGame/obj/Debug/net8.0/guessingGame.AssemblyInfo.cs
+/home/lee/Documents/c#/2024/august/guessingGame/obj/Debug/net8.0/guessingGame.csproj.CoreCompileInputs.cache
+/home/lee/Documents/c#/2024/august/guessingGame/bin/Debug/net8.0/guessingGame
+/home/lee/Documents/c#/2024/august/guessingGame/bin/Debug/net8.0/guessingGame.deps.json
+/home/lee/Documents/c#/2024/august/guessingGame/bin/Debug/net8.0/guessingGame.runtimeconfig.json
+/home/lee/Documents/c#/2024/august/guessingGame/bin/Debug/net8.0/guessingGame.dll
+/home/lee/Documents/c#/2024/august/guessingGame/bin/Debug/net8.0/guessingGame.pdb
+/home/lee/Documents/c#/2024/august/guessingGame/obj/Debug/net8.0/guessingGame.dll
+/home/lee/Documents/c#/2024/august/guessingGame/obj/Debug/net8.0/refint/guessingGame.dll
+/home/lee/Documents/c#/2024/august/guessingGame/obj/Debug/net8.0/guessingGame.pdb
+/home/lee/Documents/c#/2024/august/guessingGame/obj/Debug/net8.0/guessingGame.genruntimeconfig.cache
+/home/lee/Documents/c#/2024/august/guessingGame/obj/Debug/net8.0/ref/guessingGame.dll
