@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/lee/Documents/c#/2024/august/guessingGame/guessingGame.csproj": {}
+    "/home/lee/Documents/projects/guessingGame/guessingGame.csproj": {}
   },
   "projects": {
-    "/home/lee/Documents/c#/2024/august/guessingGame/guessingGame.csproj": {
+    "/home/lee/Documents/projects/guessingGame/guessingGame.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/lee/Documents/c#/2024/august/guessingGame/guessingGame.csproj",
+        "projectUniqueName": "/home/lee/Documents/projects/guessingGame/guessingGame.csproj",
         "projectName": "guessingGame",
-        "projectPath": "/home/lee/Documents/c#/2024/august/guessingGame/guessingGame.csproj",
+        "projectPath": "/home/lee/Documents/projects/guessingGame/guessingGame.csproj",
         "packagesPath": "/home/lee/.nuget/packages/",
-        "outputPath": "/home/lee/Documents/c#/2024/august/guessingGame/obj/",
+        "outputPath": "/home/lee/Documents/projects/guessingGame/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/lee/.nuget/NuGet/NuGet.Config"

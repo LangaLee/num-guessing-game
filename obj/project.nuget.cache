@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qX3qy9BO+8V9Tux0qGesFtMnj2tLyoaMnN7MQwz9R3g1vhFmdrZkgN9WCqJKS+7eepscjQzqvyX9wnOmT9VnwA==",
+  "dgSpecHash": "hnjK9ktevlorNMCuBfS43e2I94JuJvuNOhA4dHXVgjXAKca42sSMpp7BLH4FcsXBZeZKKUV68N9ekuaFaCgXMw==",
   "success": true,
-  "projectFilePath": "/home/lee/Documents/c#/2024/august/guessingGame/guessingGame.csproj",
+  "projectFilePath": "/home/lee/Documents/projects/guessingGame/guessingGame.csproj",
   "expectedPackageFiles": [
     "/home/lee/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.7/microsoft.aspnetcore.app.ref.8.0.7.nupkg.sha512"
   ],
